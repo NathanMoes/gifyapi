@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MoodMeDemoApp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

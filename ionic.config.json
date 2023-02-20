@@ -1,0 +1,8 @@
+{
+  "name": "MoodMeDemoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "3c516e6c"
+}
