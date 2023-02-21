@@ -6,16 +6,12 @@ import {
   IonHeader,
   IonInfiniteScroll,
   IonInfiniteScrollContent,
-  IonInput,
-  IonItem,
-  IonLabel,
   IonPage,
   IonRow,
   IonTitle,
   IonToolbar,
 } from "@ionic/react";
 import { useCallback, useEffect, useState } from "react";
-import ExploreContainer from "../components/ExploreContainer";
 import "./Tab2.css";
 
 interface gifyData {
