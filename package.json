@@ -42,7 +42,8 @@
     "workbox-range-requests": "^5.1.4",
     "workbox-routing": "^5.1.4",
     "workbox-strategies": "^5.1.4",
-    "workbox-streams": "^5.1.4"
+    "workbox-streams": "^5.1.4",
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -73,8 +74,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "4.6.3",
-    "@types/jquery": "^3.5.16",
-    "react-scripts": "5.0.1"
+    "@types/jquery": "^3.5.16"
   },
   "description": "An Ionic project"
 }
